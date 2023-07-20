@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>FIZZBUZZ - Command 1</Text>
+    <Description>Some description for FIZZBUZZ</Description>
+    <Assembly>FIZZBUZZ.dll</Assembly>
+    <FullClassName>FIZZBUZZ.Command1</FullClassName>
+    <ClientId>ed050045-65fc-49bb-8123-f99ecb678b72</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>FIZZBUZZ - Command 2</Text>
+    <Description>Some description for FIZZBUZZ</Description>
+    <Assembly>FIZZBUZZ.dll</Assembly>
+    <FullClassName>FIZZBUZZ.Command2</FullClassName>
+    <ClientId>54b982f9-dd9f-480f-a5c6-8f145a2cf69b</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>FIZZBUZZ</Name>
+    <Assembly>FIZZBUZZ.dll</Assembly>
+    <FullClassName>FIZZBUZZ.App</FullClassName>
+    <ClientId>507225cb-bd3f-4130-8a74-4d8e21786d10</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>

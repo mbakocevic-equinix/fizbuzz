@@ -1,0 +1,8 @@
+C:\Users\Mirko\source\repos\FIZZBUZZ\FIZZBUZZ\bin\Debug\FIZZBUZZ.dll
+C:\Users\Mirko\source\repos\FIZZBUZZ\FIZZBUZZ\bin\Debug\FIZZBUZZ.pdb
+C:\Users\Mirko\source\repos\FIZZBUZZ\FIZZBUZZ\obj\Debug\FIZZBUZZ.csproj.AssemblyReference.cache
+C:\Users\Mirko\source\repos\FIZZBUZZ\FIZZBUZZ\obj\Debug\FIZZBUZZ.Properties.Resources.resources
+C:\Users\Mirko\source\repos\FIZZBUZZ\FIZZBUZZ\obj\Debug\FIZZBUZZ.csproj.GenerateResource.cache
+C:\Users\Mirko\source\repos\FIZZBUZZ\FIZZBUZZ\obj\Debug\FIZZBUZZ.csproj.CoreCompileInputs.cache
+C:\Users\Mirko\source\repos\FIZZBUZZ\FIZZBUZZ\obj\Debug\FIZZBUZZ.dll
+C:\Users\Mirko\source\repos\FIZZBUZZ\FIZZBUZZ\obj\Debug\FIZZBUZZ.pdb
